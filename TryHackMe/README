@@ -9,12 +9,9 @@ Each writeup includes enumeration, exploitation, privilege escalation, and flags
 
 | Machine | Difficulty | Status | Writeup |
 |---------|------------|---------|---------|
-| ExampleMachine | Easy | ✔️ Done | [View](ExampleMachine/README.md) |
+| LO-FI   | Easy       | ✔️ Done | [View](ExampleMachine/README.md) |
 | ... | ... | ... | ... |
 
 ---
 
 
-## 🎯 Purpose
-
-A clean archive for all my TryHackMe writeups.
