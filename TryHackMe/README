@@ -1,7 +1,7 @@
-# 🔥 TryHackMe Writeups
+# 🧩 TryHackMe Writeups
 
-This section contains all writeups for TryHackMe machines and challenges.  
-Use this space to keep your work organized, clean, and easy to navigate.
+This folder contains all writeups for TryHackMe machines and challenges.  
+Each writeup includes enumeration, exploitation, privilege escalation, and flags.
 
 ---
 
@@ -9,11 +9,12 @@ Use this space to keep your work organized, clean, and easy to navigate.
 
 | Machine | Difficulty | Status | Writeup |
 |---------|------------|---------|---------|
-| ExampleMachine | Easy | ✔️ Completed | [View](ExampleMachine/README.md) |
+| ExampleMachine | Easy | ✔️ Done | [View](ExampleMachine/README.md) |
 | ... | ... | ... | ... |
 
 ---
 
-## 📌 How to Add a New Machine
 
-1. Create a folder with the machine name:  
+## 🎯 Purpose
+
+A clean archive for all my TryHackMe writeups.
