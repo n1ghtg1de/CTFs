@@ -1,1 +1,19 @@
-<h1> This folder contanis all the writeups for THM rooms and challengs </h1> 
+# 🔥 TryHackMe Writeups
+
+This section contains all writeups for TryHackMe machines and challenges.  
+Use this space to keep your work organized, clean, and easy to navigate.
+
+---
+
+## 📂 Machine List
+
+| Machine | Difficulty | Status | Writeup |
+|---------|------------|---------|---------|
+| ExampleMachine | Easy | ✔️ Completed | [View](ExampleMachine/README.md) |
+| ... | ... | ... | ... |
+
+---
+
+## 📌 How to Add a New Machine
+
+1. Create a folder with the machine name:  
