@@ -45,8 +45,4 @@ Each writeup includes enumeration, exploitation, privilege escalation, notes, an
 
 ---
 
-## 👨‍💻 Why This Repo?
 
-To track my progress, stay consistent in learning, and build a strong hacking portfolio.
-
-More writeups coming soon 🚀🔥
